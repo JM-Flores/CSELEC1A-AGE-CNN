@@ -5,8 +5,8 @@ import shutil
 
 
 def moveFiles():
-    source_folder = r"D:\python\Final Project\age_types\25-30"
-    destination_folder = r"D:\python\Final Project\age_types\25-30-final"
+    source_folder = "D:\python\Final Project\age_types\25-30"
+    destination_folder = "D:\python\Final Project\age_types\25-30-final"
 
     file_names = os.listdir(source_folder)
 
